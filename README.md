@@ -5,6 +5,8 @@ Under "separate_lines.py" file store the filename as the path to the image which
 
 To run the code run the "main_code.py" file.
 
+Type the path of the image in line 6 in separate_lines.py file.
+
 "converted_file.txt" stores the converted text.
 
 "new_converted_file.txt" stores the natural language processed data from "converted_file.txt".
